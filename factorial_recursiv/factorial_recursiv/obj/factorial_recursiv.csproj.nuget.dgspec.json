@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\examen2\\examen2\\examen2.csproj": {}
+    "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv.csproj": {}
   },
   "projects": {
-    "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\examen2\\examen2\\examen2.csproj": {
+    "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\examen2\\examen2\\examen2.csproj",
-        "projectName": "examen2",
-        "projectPath": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\examen2\\examen2\\examen2.csproj",
+        "projectUniqueName": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv.csproj",
+        "projectName": "factorial_recursiv",
+        "projectPath": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv.csproj",
         "packagesPath": "C:\\Users\\Robertica\\.nuget\\packages\\",
-        "outputPath": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\examen2\\examen2\\obj\\",
+        "outputPath": "E:\\fac emanuel it\\info\\bazele informaticii\\pregatire pentru examen\\factorial_recursiv\\factorial_recursiv\\factorial_recursiv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robertica\\AppData\\Roaming\\NuGet\\NuGet.Config",
