@@ -1,0 +1,13 @@
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.exe
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.deps.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.runtimeconfig.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.runtimeconfig.dev.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\bin\Debug\netcoreapp3.1\examen2.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.csprojAssemblyReference.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.AssemblyInfoInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.AssemblyInfo.cs
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.csproj.CoreCompileInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\examen2\examen2\examen2\obj\Debug\netcoreapp3.1\examen2.genruntimeconfig.cache
