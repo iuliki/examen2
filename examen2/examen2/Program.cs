@@ -29,6 +29,14 @@ namespace examen2
            //var b
             RemoveSubString(text);
             //var c
+            InsertingANewString(text);
+            //var d 
+            ToUpper(text);
+            //var e
+            ToLower(text);
+
+            
+   
 
         }
 
@@ -94,11 +102,31 @@ namespace examen2
         static void InsertingANewString(string text)
         {
             Console.WriteLine("Indexul unde vreau sa pun sirul nou este: ");
-            int nr = Console.WriteLine();
+            int nr;
+
+            nr = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("textul pe care vreau sa l adaug este:  ");
+            string newText;
+            newText = Console.ReadLine();
 
-
-            Console.WriteLine("New string: " + text.Insert(nr, "GFG"));
+            Console.WriteLine("New string: " + text.Insert(nr, newText));
         }
+
+        static void ToUpper(string text)
+        {
+            string  upperText = text.ToUpper();
+
+            Console.WriteLine(upperText);
+        }
+
+        static void ToLower(string text)
+        {
+            string lowerText = text.ToLower();
+
+            Console.WriteLine(lowerText);
+        }
+
+
     }
 }
