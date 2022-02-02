@@ -35,11 +35,22 @@ namespace examen2
             //var e
             ToLower(text);
 
-            
+
+
+
+          //  Console.WriteLine(Factorial(4));
    
 
         }
 
+       /* public static int Factorial(int n)
+        {
+            if (n == 1)
+                return 1;
+            else
+                return n * Factorial(n - 1);
+        }
+       */
       
 
         static void Print(string text)
