@@ -10,7 +10,7 @@ namespace factorial_recursiv
         }
         
         public static int Factorial(int n)
-        {
+        { 
             if (n == 1)
                 return 1;
             else
