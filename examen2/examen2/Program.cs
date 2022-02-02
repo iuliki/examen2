@@ -17,7 +17,7 @@ namespace examen2
             Console.WriteLine("Introduce textul: ");
 
             string text;
-            text = Console.ReadLine();
+            text = Console.ReadLine(); 
             Print(text);
 
             Console.WriteLine("exista 4 reguli prin care poti modifica textul. alege varianta ta");
